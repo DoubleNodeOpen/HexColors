@@ -1,5 +1,5 @@
 //
-//  HexColor.h
+//  HexColor-ObjC.h
 //
 //  Created by Marius Landwehr on 02.12.12.
 //  The MIT License (MIT)
