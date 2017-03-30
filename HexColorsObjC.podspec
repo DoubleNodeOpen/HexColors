@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name     = 'HexColors-ObjC'
-  s.version  = '4.0.3'
+  s.name     = 'HexColorsObjC'
+  s.version  = '4.0.4'
   s.license  = 'MIT'
   s.summary  = 'Easy HEX- and RGB-Color Handling for UIColor and NSColor as a drop in category. Former MLUIColorAdditions.'
   s.homepage = 'https://github.com/mRs-/HexColors'
@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
   s.osx.deployment_target = '10.6'
   s.watchos.deployment_target = '2.0'
   s.tvos.deployment_target = '9.0'
-  s.source_files = 'Classes/HexColors-ObjC.{h,m}'
+  s.source_files = 'Classes/HexColorsObjC.{h,m}'
 end
